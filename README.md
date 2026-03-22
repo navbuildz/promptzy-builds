@@ -24,7 +24,7 @@ The app itself is closed source. This repo exists so the auto-updater can check 
 
 ## Why Promptzy
 
-Most AI prompt managers are browser extensions, web apps, or Electron wrappers. Promptzy is a proper native Mac app, built with SwiftUI, which means it's fast, lightweight, and works the way Mac apps are supposed to work.
+Most AI prompt managers are browser extensions, web apps, or Electron wrappers. Promptzy is a proper native Mac app, built with Tauri, which means it's fast, lightweight, and works the way Mac apps are supposed to work.
 
 A few things that make it different:
 
